@@ -1,3 +1,3 @@
 # Converto
 
-Gives meaning of a word with audio.If word does not exists gives suggested word as well.
+Gives meaning and audio of an existing word.If the word does not exist it provides word suggestions as well.
